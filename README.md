@@ -17,6 +17,7 @@ The scanning drone frame is built using two 3D-printed ABS plates connected by 1
 
 https://github.com/user-attachments/assets/90fed9b7-4db0-4a8d-a3f3-c0e1307ed1db
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/de938d8e-29cf-49b9-9857-5fd1c01a80ee" />
 
 
 
