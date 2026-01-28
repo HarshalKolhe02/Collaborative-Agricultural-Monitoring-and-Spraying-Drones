@@ -18,7 +18,7 @@ The scanning drone frame is built using two 3D-printed ABS plates connected by 1
 https://github.com/user-attachments/assets/90fed9b7-4db0-4a8d-a3f3-c0e1307ed1db
 
 
-### Spraying Drone:
+### Spraying Drone
 The spraying drone frame is constructed using carbon-fiber rods positioned between two carbon-fiber plates. The propulsion system consists of X6 motors powered by two 6S batteries connected in series. The landing gear is built using aluminium rods with custom mounts, providing ground clearance and structural support. A 10-litre pesticide tank is mounted between the landing gear legs. The drone is equipped with a [adaptive dual-nozzle spraying system](https://github.com/HarshalKolhe02/Adaptive-Dual-Nozzle-Sprayer), allowing selection between different spray patterns during operation.
 
 
