@@ -16,6 +16,8 @@ The scanning drone frame is built using two 3D-printed ABS plates connected by 1
 
 
 https://github.com/user-attachments/assets/90fed9b7-4db0-4a8d-a3f3-c0e1307ed1db
+<img width="1280" height="851" alt="image" src="https://github.com/user-attachments/assets/68205c12-99b6-449d-9e05-6681354998a2" />
+
 
 
 ### Spraying Drone
