@@ -1,5 +1,8 @@
 # Collaborative Agricultural Monitoring and Spraying Drones
 
+> ⚠️ Note: This repository contains selected modules of a larger UAV perception and geotagging pipeline developed for the NIDAR competition. 
+Some components are withheld due to an ongoing research publication.
+
 This project features a two-drone autonomous swarm designed for precision agriculture. The system uses a **Scanner Drone** to find crop issues and a **Sprayer Drone** to treat them with centimetre-level accuracy.
 
 # Abstract
